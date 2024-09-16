@@ -1,0 +1,937 @@
+.laptop {
+  background-color: #011424;
+  display: flex;
+  flex-direction: warp;
+  justify-content: center;
+  width: 100%;
+}
+
+.laptop .div {
+  background-color: #011424;
+  overflow: hidden;
+  width: 1366px;
+  height: 3800px;
+  position: relative;
+}
+
+.laptop .overlap {
+  position: absolute;
+  width: 1770px;
+  height: 1828px;
+  top: -92px;
+  left: -204px;
+}
+
+.laptop .overlap-group {
+  position: absolute;
+  width: 1628px;
+  height: 1653px;
+  top: 0;
+  left: 142px;
+}
+
+.laptop .ellipse {
+  position: absolute;
+  width: 707px;
+  height: 834px;
+  top: 147px;
+  left: 721px;
+}
+
+.laptop .rectangle {
+  position: absolute;
+  width: 1472px;
+  height: 1019px;
+  top: 0;
+  left: 0;
+  background-color: #d9d9d91a;
+  border-radius: 25px;
+  box-shadow: inset -76.13px 76.13px 76.13px #ffffff1a, inset 76.13px -76.13px 76.13px #a4a4a41a;
+  backdrop-filter: blur(152.27px) brightness(100%);
+  -webkit-backdrop-filter: blur(152.27px) brightness(100%);
+}
+
+.laptop .programming-amico {
+  position: absolute;
+  width: 619px;
+  height: 650px;
+  top: 221px;
+  left: 809px;
+  object-fit: cover;
+}
+
+.laptop .hello-world-im-ridho {
+  position: absolute;
+  width: 544px;
+  top: 341px;
+  left: 131px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 45px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.laptop .front-end {
+  position: absolute;
+  width: 652px;
+  top: 391px;
+  left: 77px;
+  background: linear-gradient(180deg, rgb(253.94, 12.7, 12.7) 0%, rgb(15, 76, 129) 100%);
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  font-family: "Poppins", Helvetica;
+  font-weight: 800;
+  color: transparent;
+  font-size: 45px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.laptop .hey-there-i-m-ridho {
+  position: absolute;
+  width: 568px;
+  top: 521px;
+  left: 119px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.laptop .img {
+  position: absolute;
+  width: 170px;
+  height: 90px;
+  top: 610px;
+  left: 161px;
+}
+
+.laptop .rectangle-2 {
+  position: absolute;
+  width: 240px;
+  height: 160px;
+  top: 575px;
+  left: 263px;
+}
+
+.laptop .rectangle-3 {
+  position: absolute;
+  width: 240px;
+  height: 160px;
+  top: 575px;
+  left: 400px;
+}
+
+.laptop .text-wrapper {
+  position: absolute;
+  width: 96px;
+  top: 637px;
+  left: 198px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.laptop .text-wrapper-2 {
+  position: absolute;
+  width: 96px;
+  top: 637px;
+  left: 335px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.laptop .text-wrapper-3 {
+  position: absolute;
+  width: 96px;
+  top: 637px;
+  left: 472px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.laptop .rectangle-4 {
+  display: none;
+}
+
+.laptop .ellipse-2 {
+  position: absolute;
+  width: 402px;
+  height: 393px;
+  top: 1063px;
+  left: 1226px;
+  background-color: #d1495b;
+  border-radius: 201px/196.5px;
+  filter: blur(123px);
+}
+
+.laptop .hi-there-i-m-ridho {
+  position: absolute;
+  width: 648px;
+  top: 1229px;
+  left: 617px;
+  text-shadow: 0px 4px 20px #411bdb80;
+  font-family: "Istok Web", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.laptop .text-wrapper-4 {
+  position: absolute;
+  width: 455px;
+  top: 1048px;
+  left: 517px;
+  text-shadow: 0px 4px 25px #00000080;
+  font-family: "Konkhmer Sleokchher", Helvetica;
+  font-weight: 400;
+  color: #fcf5f566;
+  font-size: 79px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.laptop .text-wrapper-5 {
+  width: 322px;
+  top: 1075px;
+  left: 584px;
+  text-shadow: 0px 4px 25px #00000080;
+  font-family: "Konkhmer Sleokchher", Helvetica;
+  font-size: 50px;
+  position: absolute;
+  font-weight: 400;
+  color: #ffffff;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.laptop .overlap-2 {
+  position: absolute;
+  width: 644px;
+  height: 643px;
+  top: 1185px;
+  left: 0;
+}
+
+.laptop .rectangle-5 {
+  position: absolute;
+  width: 358px;
+  height: 541px;
+  top: 0;
+  left: 286px;
+  background-color: #d9d9d91a;
+  border-radius: 25px;
+  box-shadow: inset -76.13px 76.13px 76.13px #ffffff1a, inset 76.13px -76.13px 76.13px #a4a4a41a;
+  backdrop-filter: blur(152.27px) brightness(100%);
+  -webkit-backdrop-filter: blur(152.27px) brightness(100%);
+}
+
+.laptop .rectangle-6 {
+  position: absolute;
+  width: 330px;
+  height: 520px;
+  top: 123px;
+  left: 0;
+  background-color: #d1495b;
+  filter: blur(234px);
+}
+
+.laptop .ridhoopi {
+  position: absolute;
+  width: 312px;
+  height: 510px;
+  top: 16px;
+  left: 309px;
+  object-fit: cover;
+}
+
+.laptop .overlap-3 {
+  position: absolute;
+  width: 1731px;
+  height: 588px;
+  top: 2769px;
+  left: -284px;
+}
+
+.laptop .ellipse-3 {
+  position: absolute;
+  width: 620px;
+  height: 588px;
+  top: 0;
+  left: 0;
+  background-color: #d1495b;
+  border-radius: 310px/294px;
+  filter: blur(123px);
+}
+
+.laptop .let-s-create {
+  position: absolute;
+  width: 1528px;
+  top: 35px;
+  left: 203px;
+  filter: blur(12.5px);
+  font-family: "Poppins", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 58px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.laptop .p {
+  position: absolute;
+  width: 1436px;
+  top: 35px;
+  left: 249px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 55px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.laptop .overlap-4 {
+  position: absolute;
+  width: 619px;
+  height: 370px;
+  top: 1804px;
+  left: 373px;
+}
+
+.laptop .group {
+  position: absolute;
+  width: 326px;
+  height: 152px;
+  top: 0;
+  left: 149px;
+}
+
+.laptop .overlap-group-2 {
+  position: relative;
+  width: 322px;
+  height: 152px;
+}
+
+.laptop .text-wrapper-6 {
+  position: absolute;
+  width: 322px;
+  top: 0;
+  left: 0;
+  text-shadow: 0px 4px 25px #00000080;
+  font-family: "Konkhmer Sleokchher", Helvetica;
+  font-weight: 400;
+  color: #fcf5f566;
+  font-size: 79px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.laptop .text-wrapper-7 {
+  position: absolute;
+  width: 322px;
+  top: 27px;
+  left: 0;
+  text-shadow: 0px 4px 25px #00000080;
+  font-family: "Konkhmer Sleokchher", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 50px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.laptop .group-2 {
+  position: absolute;
+  width: 619px;
+  height: 291px;
+  top: 79px;
+  left: 0;
+}
+
+.laptop .overlap-5 {
+  position: absolute;
+  width: 900px;
+  height: 252px;
+  top: 2265px;
+  left: 233px;
+}
+
+.laptop .text-wrapper-8 {
+  position: absolute;
+  width: 322px;
+  top: 0;
+  left: 289px;
+  text-shadow: 0px 4px 25px #00000080;
+  font-family: "Konkhmer Sleokchher", Helvetica;
+  font-weight: 400;
+  color: #fcf5f566;
+  font-size: 79px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.laptop .text-wrapper-9 {
+  width: 322px;
+  top: 27px;
+  left: 289px;
+  text-shadow: 0px 4px 25px #00000080;
+  font-family: "Konkhmer Sleokchher", Helvetica;
+  font-size: 50px;
+  position: absolute;
+  font-weight: 400;
+  color: #ffffff;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.laptop .text-wrapper-10 {
+  position: absolute;
+  width: 900px;
+  top: 144px;
+  left: 0;
+  font-family: "Kokoro-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.laptop .div-wrapper {
+  position: absolute;
+  width: 145px;
+  height: 45px;
+  top: 2518px;
+  left: 610px;
+  background-color: #9125c3;
+  border-radius: 45px;
+  box-shadow: 0px 4px 35px #280ecab2;
+}
+
+.laptop .text-wrapper-11 {
+  top: 3px;
+  left: 27px;
+  font-family: "Poppins", Helvetica;
+  font-size: 25px;
+  position: absolute;
+  font-weight: 400;
+  color: #ffffff;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.laptop .group-3 {
+  position: fixed;
+  width: 1441px;
+  height: 34px;
+  top: 0;
+  left: -57px;
+  backdrop-filter: blur(35px) brightness(100%);
+  -webkit-backdrop-filter: blur(35px) brightness(100%);
+}
+
+.laptop .text-wrapper-12 {
+  position: absolute;
+  width: 309px;
+  top: 0;
+  left: 0;
+  text-shadow: 0px 4px 20px #ff000040;
+  font-family: "Inter", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  flex-wrap: wrap;
+}
+
+.laptop .text-wrapper-13 {
+  position: absolute;
+  width: 115px;
+  top: 0;
+  left: 729px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  flex-wrap: wrap;
+}
+
+.laptop .text-wrapper-14 {
+  width: 115px;
+  top: 0;
+  left: 923px;
+  font-family: "Inter", Helvetica;
+  font-size: 25px;
+  position: absolute;
+  font-weight: 400;
+  color: #ffffff;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  flex-wrap: wrap;
+}
+
+.laptop .overlap-6 {
+  position: absolute;
+  width: 305px;
+  height: 34px;
+  top: 0;
+  left: 1126px;
+  flex-wrap: wrap;
+}
+
+.laptop .text-wrapper-15 {
+  position: absolute;
+  flex-wrap: wrap;
+  width: 115px;
+  top: 0;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.laptop .text-wrapper-16 {
+  width: 202px;
+  top: 0;
+  left: 103px;
+  font-family: "Inter", Helvetica;
+  font-size: 25px;
+  position: absolute;
+  font-weight: 400;
+  color: #ffffff;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  flex-wrap: wrap;
+}
+
+.laptop .text-wrapper-13:hover{
+  color: #9125c3;
+  transition: .2s;
+}
+
+.laptop .text-wrapper-14:hover{
+  color: #9125c3;
+  transition: .2s;
+}
+
+.laptop .text-wrapper-15:hover{
+  color: #9125c3;
+  transition: .2s;
+}
+
+.laptop .text-wrapper-16:hover{
+  color: #9125c3;
+  transition: .2s;
+}
+
+.laptop .html{
+  position:absolute;
+  width: 253px;
+  height:190px;
+  top:117px;
+  left: -400px;
+  object-fit: cover;
+}
+
+.laptop .css{
+  position: absolute;
+  width: 285px;
+  height: 286px;
+  top:69px;
+  left: -150px;
+  object-fit: cover;
+}
+
+.laptop .js{
+  position: absolute;
+  width: 263px;
+  height: 247px;
+  top: 88px;
+  left: 175px;
+  object-fit: cover;
+}
+
+.laptop .python{
+  position: absolute;
+  width: 242px;
+  height: 246px;
+  top: 89px;
+  left: 460px;
+  object-fit: cover;
+}
+
+.laptop .figma{
+  position: absolute;
+  width: 313px;
+  height: 277px;
+  top: 73px;
+  left: 700px;
+  object-fit: cover;
+}
+
+.html{
+  scroll-behavior: smooth;
+}
+
+button {
+  background-color: #d1495b;
+  color: white;
+  margin-top: 340px;
+  margin-left: 205px;
+  padding: 17px 34px;
+  border: none;
+  border-radius: 12px;
+  font-size: 23px;
+  font-weight: 600;
+  cursor: pointer;
+  /* box-shadow: 0 4px 8px rgba(250, 250, 250, 0.745); */
+  letter-spacing: 2px;
+}
+
+button:hover{
+  background-color: #9125c3;
+  transition: .5s;
+}
+
+@media only screen and (max-width: 500px) {
+  .laptop .text-wrapper-13{
+    display: none;
+  }
+  
+  .laptop .text-wrapper-14{
+    display: none;
+  }
+
+  .laptop .text-wrapper-15{
+    display: none;
+  }
+
+  .laptop .text-wrapper-16{
+    display: none;
+  }
+
+  
+
+  .laptop .overlap-6{
+    display: none;
+  }
+
+  .laptop .hello-world-im-ridho{
+    max-width: 365px;
+    font-size: 39px;
+    padding-right: 28px;
+  }
+
+  .laptop .front-end{
+    font-size: 38px;
+    padding-top: 80px;
+    max-width: 380px;
+    padding-left: 53px;
+    
+  }
+
+  .laptop .hey-there-i-m-ridho{
+    font-size: 12px;
+    max-width: 360px;
+    padding-top: 200px;
+  }
+
+  .laptop .rectangle{
+    width: 479px;
+    height: 1600px;
+    left: 62px;
+    border-radius: 0;
+  }
+
+/* None Dulu */
+  .laptop .rectangle-6,
+  .laptop .ellipse-2{
+    display: none;
+  }
+
+/* None Dulu */
+
+  .laptop .text-wrapper-4{
+    margin-top: 570px;
+    margin-left: -440px;
+  }
+
+
+  .laptop .text-wrapper-5{
+    margin-top: 570px;
+    margin-left: -440px;
+  }
+
+  .laptop .rectangle-5{
+    margin-top: 600px;
+    margin-left: -20px;
+  }
+
+  
+
+  .laptop .ridhoopi{
+    margin-top: 600px;
+    margin-left: -20px
+  }
+
+  .laptop .hi-there-i-m-ridho{
+    margin-top: 1130px;
+    margin-left: -530px;
+    font-size: 90%;
+    font-weight: 100%;
+    max-width: 440px;
+  }
+
+  .laptop .img{
+    margin-top: 200px;
+    margin-left: 50px;
+  }
+  
+  .laptop .rectangle-2{
+    margin-top: 260px;
+    margin-left: -87px;
+  }
+  
+  .laptop .rectangle-3{
+    margin-top: 315px;
+    margin-left: -223px;
+  }
+
+  .laptop .text-wrapper{
+    padding: 200px 0 0 55px;
+  }
+  
+  .laptop .text-wrapper-2{
+    padding: 260px 0 0 0;
+    margin-left: -85px;
+  }
+  
+  .laptop .text-wrapper-3{
+    padding: 315px 0 0 0;
+    margin-left: -223px;
+  }
+
+  .laptop .ellipse{
+    margin-top: 900px;
+    margin-left: -660px;
+    width: 30%;
+    height: 30%;
+  }
+
+  .laptop .programming-amico{
+    margin-top: 840px;
+    margin-left: -720px;
+    width: 25%;
+    height: 25%;
+  }
+
+  .laptop .text-wrapper-6,
+  .laptop .text-wrapper-7{
+    margin-top: 700px;
+    margin-left: -440px;
+  }
+
+  .laptop .html{
+    margin-top: 700px;
+    margin-left: 10px;
+    width: 120px;
+    height: 120px;
+  }
+
+  .laptop .css{
+    margin-top: 737px;
+    margin-left: -160px;
+    width: 145px;
+    height: 145px;
+  }
+
+  .laptop .js{
+    margin-top: 718px;
+    margin-left: -375px;
+    width: 145px;
+    height: 145px;
+  }
+
+  .laptop .python{
+    margin-top: 731px;
+    margin-left: -550px;
+    width: 120px;
+    height: 120px;
+  }
+
+  .laptop .figma{
+    margin-top: 743px;
+    margin-left: -700px;
+    width: 125px;
+    height: 130px;
+  }
+
+  .laptop .text-wrapper-8,
+  .laptop .text-wrapper-9{
+    margin-top: 600px;
+    margin-left: -440px;
+  }
+
+  .laptop .text-wrapper-10{
+    max-width: 460px;
+    margin-top: 600px;
+    margin-left: -225px;
+  }
+
+  .laptop .div-wrapper{
+    margin-top: 660px;
+    margin-left: -440px;
+  }
+
+  .laptop .ellipse-3{
+    margin-top: 700px;
+    margin-left: -50px;
+  }
+
+  .laptop .let-s-create{
+    margin-top: 600px;
+    max-width: 479px;
+    margin-left: 90px;
+  }
+
+  .laptop .p{
+    margin-top: 600px;
+    max-width: 460px;
+    margin-left: 50px;
+  }
+
+  button{
+    margin-left: -230px;
+    margin-top: 950px;
+  }
+
+
+}
+
+
+@media only screen and (min-width:1600px){
+  .laptop .group-3{
+    min-width: 1600px;
+  }
+
+  button{
+    margin-left: 330px;
+  }
+
+  .laptop .text-wrapper-13,
+  .laptop .text-wrapper-14,
+  .laptop .text-wrapper-15,
+  .laptop .text-wrapper-16{
+    margin-left: 250px;
+  }
+
+  .laptop .div{
+    width: 1600px;
+  }
+
+  .laptop .overlap{
+    margin-left: 60px;
+  }
+
+  .laptop .rectangle{
+    min-width: 1800px;
+    margin-left: -100px;
+  }
+
+  .laptop .ellipse,
+  .laptop .programming-amico{
+    margin-left: 80px;
+  }
+
+  .laptop .text-wrapper-4,
+  .laptop .text-wrapper-5{
+    margin-left: 60px;
+  }
+
+  .laptop .ellipse-2{
+    margin-left: 130px;
+    margin-top: 40px;
+  }
+
+  .laptop .hi-there-i-m-ridho{
+    margin-left: 170px;
+    margin-top: -20px;
+  }
+
+  .laptop .group{
+    margin-left: 130px;
+  }
+
+  .laptop .html,
+  .laptop .css,
+  .laptop .js,
+  .laptop .python,
+  .laptop .figma{
+    margin-left: 130px;
+  }
+
+  .laptop .text-wrapper-8,
+  .laptop .text-wrapper-9,
+  .laptop .text-wrapper-10,
+  .laptop .div-wrapper,
+  .laptop .p{
+    margin-left: 130px;
+  }
+
+  .laptop .let-s-create{
+    margin-left: 120px;
+  }
+
+  .laptop .ellipse-3{
+    margin-left: -60px;
+    margin-top: 60px;
+  }
+}
