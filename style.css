@@ -6,8 +6,10 @@
   width: 100%;
 }
 
-body {
+.laptop .div {
   background-color: #011424;
+  overflow: hidden;
+  width: 1366px;
   height: 3800px;
   position: relative;
 }
@@ -38,7 +40,7 @@ body {
 
 .laptop .rectangle {
   position: absolute;
-  width: 1800px;
+  width: 1472px;
   height: 1019px;
   top: 0;
   left: 0;
@@ -457,7 +459,7 @@ body {
 
 .laptop .group-3 {
   position: fixed;
-  width: 1366px;
+  width: 1441px;
   height: 34px;
   top: 0;
   left: -57px;
@@ -639,12 +641,7 @@ button:hover{
   transition: .5s;
 }
 
-
-@media only screen and (max-width: 768px) {
-  .laptop .group-3{
-    width: 768px;
-  }
-
+@media only screen and (max-width: 500px) {
   .laptop .text-wrapper-13{
     display: none;
   }
@@ -688,7 +685,7 @@ button:hover{
   }
 
   .laptop .rectangle{
-    width: 768px;
+    width: 479px;
     height: 1600px;
     left: 62px;
     border-radius: 0;
@@ -876,7 +873,7 @@ button:hover{
     margin-left: 250px;
   }
 
-  body{
+  .laptop .div{
     width: 1600px;
   }
 
