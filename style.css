@@ -719,8 +719,7 @@ button:hover{
   }
 
   .order{
-    margin-left: -1px;
-    margin-top: -10px;
+    display: none;
   }
   
   .tombol-hire{
