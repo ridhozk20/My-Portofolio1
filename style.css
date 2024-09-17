@@ -845,14 +845,11 @@ button:hover{
   }
 
   .laptop .ellipse-3{
-    margin-top: 600px;
-    margin-left: -50px;
+    display: none;
   }
 
   .laptop .let-s-create{
-    margin-top: 400px;
-    max-width: 330px;
-    margin-left: 100px;
+    display: none;
   }
 
   .laptop .p{
