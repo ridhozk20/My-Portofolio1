@@ -20,7 +20,7 @@ body{
     font-family: "Kanit",sans-serif;
     background-color: var(--bg);
     color: #ffffff;
-    min-height: 3000px;
+    min-height: 1500px;
 }
 
 /* .navbar{
